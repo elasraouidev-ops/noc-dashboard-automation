@@ -1,0 +1,13 @@
+hostname,interface
+Dist1,Gi0/0
+Dist1,Gi0/1
+Dist2,Gi0/0
+Dist2,Gi0/1
+C1,Gi0/2
+C1,Gi0/3
+C2,Gi0/2
+C2,Gi0/3
+A1,Gi0/0
+A2,Gi0/0
+A3,Gi0/0
+A4,Gi0/0

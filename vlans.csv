@@ -1,0 +1,9 @@
+vlan_id,name
+10,Comptabilite
+20,Ressources_Humaines
+30,Direction
+40,Production
+110,Voice_Compta
+120,Voice_RH
+130,Voice_Dir
+140,Voice_Prod
